@@ -1,0 +1,89 @@
+layout: layout.njk
+titulo: Asemblea Xeral
+
+subtitulo: |
+  Sábado 7 de febreiro 
+  A Coruña
+
+programa:
+  - hora: 11:00h
+    info: Charla na DAG sobre identidade visual corporativa a cargo de Dani Bembibre
+    
+  - hora: 12:00h
+    info: Descanso 
+    
+  - hora: 12:30h
+    info: Demostración de funcionamento de impresora 3D
+    
+  - hora: 14:00h
+    info: Xantar e sobremesa con presentación do libro *'O como é o que conta'* escolma de textos de Pepe Barro
+    
+  - hora: 17:00h
+    info: Asemblea Xeral da DAG
+
+info: |
+  Prégase confirmación de asistencia en: [info@asociaciondag.org](mailto:info@asociaciondag.org)
+  
+  **As Charlas na DAG e a demostración son abertas pero con prazas limitadas.**
+  **A Asemblea é só para socias e socios**
+  
+  As actividades celebraránse no estudio COSTA na Rúa Real 55 - 1º esquerda
+
+social:
+  - title: Xa en @costaestudio55 a piques de comezar
+    url: https://twitter.com/asociaciondag/status/564002885013622784'
+    medio: Twitter (@asociaciondag)
+  - title: Comeza @danibembibre falando de imaxe visual corporativa co proxecto do cambio de imaxe de @rtve
+    url: https://twitter.com/asociaciondag/status/564008510896504832'
+    medio: Twitter (@asociaciondag)
+  - title: Agora toca debate. @danibembibre "a situación do deseño en Galicia só podemos cambiala os deseñadores"
+    url: https://twitter.com/asociaciondag/status/564030406161616897'
+    medio: Twitter (@asociaciondag)
+  - title: Fálase de se sería interesante xuntarse en UTEs para poder afrontar proxectos moi grandes, para que non marchen fóra de Galicia
+    url: https://twitter.com/asociaciondag/status/564031071965446145'
+    medio: Twitter (@asociaciondag)
+  - title: Fálase de se sería interesante xuntarse en UTEs para poder afrontar proxectos moi grandes, para que non marchen fóra de Galicia
+    url: https://twitter.com/asociaciondag/status/564031071965446145'
+    medio: Twitter (@asociaciondag)
+  - title: Agora demostracion de como funciona unha impresora 3d da man
+    url: https://twitter.com/asociaciondag/status/564043106031779840'
+    medio: Twitter (@asociaciondag)
+  - title: :)
+    url: https://twitter.com/asociaciondag/status/564043271383822336'
+    medio: Twitter (@asociaciondag)
+  - title: Demo impresora 3D coa @asociaciondag
+    url: https://twitter.com/marcosdopico/status/564044466252972032'
+    medio: Twitter (@marcosdopico)
+  - title: Coñecendo moi de preto a impresión 3d
+    url: https://twitter.com/asociaciondag/status/564049666250403842'
+    medio: Twitter (@asociaciondag)
+  - title: "@asociaciondag Que mal perdérmelo... Mis 39 de fiebre me han impedido ir... Traédme un recuerdo en 3D! Jaja"
+    url: https://twitter.com/br1pardo/status/564052561029005312'
+    medio: Twitter (@br1pardo)
+  - title: Moi agradecidos a @prusai3 por esta estupenda demostración
+    url: https://twitter.com/asociaciondag/status/564056024899153922'
+    medio: Twitter (@asociaciondag)
+  - title: Despois de compartir a comida retomamos a xornada coa presentación do libro de Pepe Barro "O como é o que conta"
+    url: https://twitter.com/asociaciondag/status/564096690077335552'
+    medio: Twitter (@asociaciondag)
+  - title: '"O como é o que conta" é unha escolma de textos escritos por Pepe Barro ao longo da súa traxectoria.''
+    url: https://twitter.com/asociaciondag/status/564098731487014913'
+    medio: Twitter (@asociaciondag)
+  - title: Lendo uns fragmentos de "O como é o que conta" de Pepe Barro
+    url: https://twitter.com/asociaciondag/status/564104070764720130'
+    medio: Twitter (@asociaciondag)
+  - title: Coñecendo os cambios na identidade corporativa da DAG da man de @marcosdopico
+    url: https://twitter.com/asociaciondag/status/564124625719009280'
+    medio: Twitter (@asociaciondag)
+  - title: "Falando de como achegarnos á empresas relacionadas co sector: filmación, imprentas, librarías, editoras, encadernadoras, rotulación"
+    url: https://twitter.com/asociaciondag/status/564129184659021825'
+    medio: Twitter (@asociaciondag)
+  - title: Debatindo propostas de accións de formación para socios, profes, estudantes...
+    url: https://twitter.com/asociaciondag/status/564133211941666817'
+    medio: Twitter (@asociaciondag)
+  - title: Cousiñas de recordo dunha moi boa primeira vez na Asemblea Xeral da @asociaciondag. Moitas grazas, parabéns e azos!
+    url: https://twitter.com/artwork_atwork/status/564402005242695680'
+    medio: Twitter (@artwork_atwork)
+  - title: Esta finde, de reunión coa @asociaciondag recibimos un bonito agasallo. Gracias Pepe
+    url: https://twitter.com/ekinociosc/status/565084830845927424'
+    medio: Twitter (@ekinociosc)
